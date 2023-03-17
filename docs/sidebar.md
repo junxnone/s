@@ -1,15 +1,2 @@
-- Features 
-  - Markdown
-  - IncludeContent
-  - Latex
-  - Mermaid
-  - MindMap
-  - Timeline
-  - AutoSidebar
-  - KG
-- Guide  
-  - WriteWiki
-  - AutoSidebar
-- TODO  
-- About  
+
 
