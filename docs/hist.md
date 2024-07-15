@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2024-07-15&nbsp;&nbsp; [习惯性反问](/0024_沟通_好好说话_习惯性反问)&nbsp;&nbsp; :bookmark:沟通 :bookmark:好好说话 :bookmark:习惯性反问
 - 2023-08-02&nbsp;&nbsp; [生于忧患，死于安乐](/0023_x_生于忧患死于安乐)&nbsp;&nbsp; :bookmark:x :bookmark:生于忧患死于安乐
 - 2023-07-20&nbsp;&nbsp; [5W2H](/0022_学习_方法_5W2H)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法 :bookmark:5W2H
 - 2023-06-17&nbsp;&nbsp; [决策](/0021_决策)&nbsp;&nbsp; :bookmark:决策
