@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2025-05-19&nbsp;&nbsp; [异议让世界多样](/0027_异议让世界多样)&nbsp;&nbsp; :bookmark:异议让世界多样
 - 2025-04-16&nbsp;&nbsp; [恐惧](/0026_x_恐惧)&nbsp;&nbsp; :bookmark:x :bookmark:恐惧
 - 2024-07-26&nbsp;&nbsp; [人](/0025_x_人)&nbsp;&nbsp; :bookmark:x :bookmark:人
 - 2024-07-15&nbsp;&nbsp; [习惯性反问](/0024_沟通_好好说话_习惯性反问)&nbsp;&nbsp; :bookmark:沟通 :bookmark:好好说话 :bookmark:习惯性反问
@@ -15,8 +16,8 @@
 - 2023-03-29&nbsp;&nbsp; [表达](/0014_表达)&nbsp;&nbsp; :bookmark:表达
 - 2023-03-17&nbsp;&nbsp; [学习思维](/0011_学习_思维)&nbsp;&nbsp; :bookmark:学习 :bookmark:思维
 - 2023-03-17&nbsp;&nbsp; [悟道](/0004_x_悟道)&nbsp;&nbsp; :bookmark:x :bookmark:悟道
-- 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
 - 2023-03-17&nbsp;&nbsp; [沟通](/0005_沟通)&nbsp;&nbsp; :bookmark:沟通
+- 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
 - 2023-03-17&nbsp;&nbsp; [学习方法](/0013_学习_方法)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法
 - 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
 - 2023-03-17&nbsp;&nbsp; [学习效率](/0012_学习_效率)&nbsp;&nbsp; :bookmark:学习 :bookmark:效率
