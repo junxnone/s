@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2025-05-27&nbsp;&nbsp; [信仰](/0029_信仰)&nbsp;&nbsp; :bookmark:信仰
 - 2025-05-27&nbsp;&nbsp; [得到与失去](/0028_得到与失去)&nbsp;&nbsp; :bookmark:得到与失去
 - 2025-05-19&nbsp;&nbsp; [异议让世界多样](/0027_异议让世界多样)&nbsp;&nbsp; :bookmark:异议让世界多样
 - 2025-04-16&nbsp;&nbsp; [恐惧](/0026_x_恐惧)&nbsp;&nbsp; :bookmark:x :bookmark:恐惧
@@ -19,10 +20,10 @@
 - 2023-03-17&nbsp;&nbsp; [极限](/0003_x_极限)&nbsp;&nbsp; :bookmark:x :bookmark:极限
 - 2023-03-17&nbsp;&nbsp; [计划](/0008_计划)&nbsp;&nbsp; :bookmark:计划
 - 2023-03-17&nbsp;&nbsp; [沟通时的思考](/0007_沟通_思考)&nbsp;&nbsp; :bookmark:沟通 :bookmark:思考
-- 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
-- 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
 - 2023-03-17&nbsp;&nbsp; [悟道](/0004_x_悟道)&nbsp;&nbsp; :bookmark:x :bookmark:悟道
-- 2023-03-17&nbsp;&nbsp; [沟通](/0005_沟通)&nbsp;&nbsp; :bookmark:沟通
-- 2023-03-17&nbsp;&nbsp; [学习工具](/0010_学习_工具)&nbsp;&nbsp; :bookmark:学习 :bookmark:工具
 - 2023-03-17&nbsp;&nbsp; [学习思维](/0011_学习_思维)&nbsp;&nbsp; :bookmark:学习 :bookmark:思维
 - 2023-03-17&nbsp;&nbsp; [学习方法](/0013_学习_方法)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法
+- 2023-03-17&nbsp;&nbsp; [沟通](/0005_沟通)&nbsp;&nbsp; :bookmark:沟通
+- 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
+- 2023-03-17&nbsp;&nbsp; [学习工具](/0010_学习_工具)&nbsp;&nbsp; :bookmark:学习 :bookmark:工具
+- 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
