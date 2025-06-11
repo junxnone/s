@@ -1,7 +1,7 @@
 # Wiki History
 
-- 2025-05-27&nbsp;&nbsp; [信仰](/0029_信仰)&nbsp;&nbsp; :bookmark:信仰
 - 2025-05-27&nbsp;&nbsp; [得到与失去](/0028_得到与失去)&nbsp;&nbsp; :bookmark:得到与失去
+- 2025-05-27&nbsp;&nbsp; [信仰](/0029_信仰)&nbsp;&nbsp; :bookmark:信仰
 - 2025-05-19&nbsp;&nbsp; [异议让世界多样](/0027_异议让世界多样)&nbsp;&nbsp; :bookmark:异议让世界多样
 - 2025-04-16&nbsp;&nbsp; [恐惧](/0026_x_恐惧)&nbsp;&nbsp; :bookmark:x :bookmark:恐惧
 - 2024-07-26&nbsp;&nbsp; [人](/0025_x_人)&nbsp;&nbsp; :bookmark:x :bookmark:人
@@ -10,20 +10,20 @@
 - 2023-07-20&nbsp;&nbsp; [5W2H](/0022_学习_方法_5W2H)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法 :bookmark:5W2H
 - 2023-06-17&nbsp;&nbsp; [决策](/0021_决策)&nbsp;&nbsp; :bookmark:决策
 - 2023-06-17&nbsp;&nbsp; [待分类](/0020_x)&nbsp;&nbsp; :bookmark:x
-- 2023-05-28&nbsp;&nbsp; [决策方法](/0018_决策_方法)&nbsp;&nbsp; :bookmark:决策 :bookmark:方法
 - 2023-05-28&nbsp;&nbsp; [“不可能的三角形" 决策法](/0019_决策_方法_不可能的三角形)&nbsp;&nbsp; :bookmark:决策 :bookmark:方法 :bookmark:不可能的三角形
+- 2023-05-28&nbsp;&nbsp; [决策方法](/0018_决策_方法)&nbsp;&nbsp; :bookmark:决策 :bookmark:方法
 - 2023-05-19&nbsp;&nbsp; [逃避与沉迷](/0017_x_逃避)&nbsp;&nbsp; :bookmark:x :bookmark:逃避
 - 2023-04-26&nbsp;&nbsp; [格物](/0016_学习_格物)&nbsp;&nbsp; :bookmark:学习 :bookmark:格物
 - 2023-04-02&nbsp;&nbsp; [教](/0015_教)&nbsp;&nbsp; :bookmark:教
 - 2023-03-29&nbsp;&nbsp; [表达](/0014_表达)&nbsp;&nbsp; :bookmark:表达
 - 2023-03-17&nbsp;&nbsp; [学习效率](/0012_学习_效率)&nbsp;&nbsp; :bookmark:学习 :bookmark:效率
-- 2023-03-17&nbsp;&nbsp; [极限](/0003_x_极限)&nbsp;&nbsp; :bookmark:x :bookmark:极限
-- 2023-03-17&nbsp;&nbsp; [计划](/0008_计划)&nbsp;&nbsp; :bookmark:计划
 - 2023-03-17&nbsp;&nbsp; [沟通时的思考](/0007_沟通_思考)&nbsp;&nbsp; :bookmark:沟通 :bookmark:思考
-- 2023-03-17&nbsp;&nbsp; [悟道](/0004_x_悟道)&nbsp;&nbsp; :bookmark:x :bookmark:悟道
-- 2023-03-17&nbsp;&nbsp; [学习思维](/0011_学习_思维)&nbsp;&nbsp; :bookmark:学习 :bookmark:思维
-- 2023-03-17&nbsp;&nbsp; [学习方法](/0013_学习_方法)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法
+- 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
 - 2023-03-17&nbsp;&nbsp; [沟通](/0005_沟通)&nbsp;&nbsp; :bookmark:沟通
 - 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
+- 2023-03-17&nbsp;&nbsp; [学习方法](/0013_学习_方法)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法
+- 2023-03-17&nbsp;&nbsp; [学习思维](/0011_学习_思维)&nbsp;&nbsp; :bookmark:学习 :bookmark:思维
+- 2023-03-17&nbsp;&nbsp; [极限](/0003_x_极限)&nbsp;&nbsp; :bookmark:x :bookmark:极限
+- 2023-03-17&nbsp;&nbsp; [计划](/0008_计划)&nbsp;&nbsp; :bookmark:计划
+- 2023-03-17&nbsp;&nbsp; [悟道](/0004_x_悟道)&nbsp;&nbsp; :bookmark:x :bookmark:悟道
 - 2023-03-17&nbsp;&nbsp; [学习工具](/0010_学习_工具)&nbsp;&nbsp; :bookmark:学习 :bookmark:工具
-- 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
