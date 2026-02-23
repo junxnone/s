@@ -1,6 +1,6 @@
 # Wiki History
 
-- 2026-02-23&nbsp;&nbsp; [未雨绸缪](/0032_未来_不进则退_未雨绸缪)&nbsp;&nbsp; :bookmark:未来 :bookmark:不进则退 :bookmark:未雨绸缪
+- 2026-02-23&nbsp;&nbsp; [不进则退未雨绸缪](/0032_未来_不进则退未雨绸缪)&nbsp;&nbsp; :bookmark:未来 :bookmark:不进则退未雨绸缪
 - 2026-02-08&nbsp;&nbsp; [吾之砒霜](/0031_沟通_君之蜜糖_吾之砒霜)&nbsp;&nbsp; :bookmark:沟通 :bookmark:君之蜜糖 :bookmark:吾之砒霜
 - 2025-09-10&nbsp;&nbsp; [故土](/0030_故土)&nbsp;&nbsp; :bookmark:故土
 - 2025-05-27&nbsp;&nbsp; [信仰](/0029_信仰)&nbsp;&nbsp; :bookmark:信仰
