@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2026-02-26&nbsp;&nbsp; [好好说话](/0035_沟通_好好说话)&nbsp;&nbsp; :bookmark:沟通 :bookmark:好好说话
 - 2026-02-26&nbsp;&nbsp; [每日一思](/0034_未来_每日一思)&nbsp;&nbsp; :bookmark:未来 :bookmark:每日一思
 - 2026-02-26&nbsp;&nbsp; [入世](/0033_未来_入世)&nbsp;&nbsp; :bookmark:未来 :bookmark:入世
 - 2026-02-23&nbsp;&nbsp; [不进则退未雨绸缪](/0032_未来_不进则退未雨绸缪)&nbsp;&nbsp; :bookmark:未来 :bookmark:不进则退未雨绸缪
@@ -13,8 +14,8 @@
 - 2024-07-15&nbsp;&nbsp; [习惯性反问](/0024_沟通_好好说话_习惯性反问)&nbsp;&nbsp; :bookmark:沟通 :bookmark:好好说话 :bookmark:习惯性反问
 - 2023-08-02&nbsp;&nbsp; [生于忧患，死于安乐](/0023_x_生于忧患死于安乐)&nbsp;&nbsp; :bookmark:x :bookmark:生于忧患死于安乐
 - 2023-07-20&nbsp;&nbsp; [5W2H](/0022_学习_方法_5W2H)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法 :bookmark:5W2H
-- 2023-06-17&nbsp;&nbsp; [决策](/0021_决策)&nbsp;&nbsp; :bookmark:决策
 - 2023-06-17&nbsp;&nbsp; [待分类](/0020_x)&nbsp;&nbsp; :bookmark:x
+- 2023-06-17&nbsp;&nbsp; [决策](/0021_决策)&nbsp;&nbsp; :bookmark:决策
 - 2023-05-28&nbsp;&nbsp; [决策方法](/0018_决策_方法)&nbsp;&nbsp; :bookmark:决策 :bookmark:方法
 - 2023-05-28&nbsp;&nbsp; [“不可能的三角形" 决策法](/0019_决策_方法_不可能的三角形)&nbsp;&nbsp; :bookmark:决策 :bookmark:方法 :bookmark:不可能的三角形
 - 2023-05-19&nbsp;&nbsp; [逃避与沉迷](/0017_x_逃避)&nbsp;&nbsp; :bookmark:x :bookmark:逃避
@@ -24,11 +25,11 @@
 - 2023-03-17&nbsp;&nbsp; [计划](/0008_计划)&nbsp;&nbsp; :bookmark:计划
 - 2023-03-17&nbsp;&nbsp; [沟通时的思考](/0007_沟通_思考)&nbsp;&nbsp; :bookmark:沟通 :bookmark:思考
 - 2023-03-17&nbsp;&nbsp; [沟通](/0005_沟通)&nbsp;&nbsp; :bookmark:沟通
-- 2023-03-17&nbsp;&nbsp; [学习方法](/0013_学习_方法)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法
 - 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
 - 2023-03-17&nbsp;&nbsp; [悟道](/0004_x_悟道)&nbsp;&nbsp; :bookmark:x :bookmark:悟道
-- 2023-03-17&nbsp;&nbsp; [极限](/0003_x_极限)&nbsp;&nbsp; :bookmark:x :bookmark:极限
+- 2023-03-17&nbsp;&nbsp; [学习方法](/0013_学习_方法)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法
 - 2023-03-17&nbsp;&nbsp; [学习思维](/0011_学习_思维)&nbsp;&nbsp; :bookmark:学习 :bookmark:思维
+- 2023-03-17&nbsp;&nbsp; [极限](/0003_x_极限)&nbsp;&nbsp; :bookmark:x :bookmark:极限
 - 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
 - 2023-03-17&nbsp;&nbsp; [学习效率](/0012_学习_效率)&nbsp;&nbsp; :bookmark:学习 :bookmark:效率
 - 2023-03-17&nbsp;&nbsp; [学习工具](/0010_学习_工具)&nbsp;&nbsp; :bookmark:学习 :bookmark:工具
