@@ -1,3 +1,4 @@
+- [Vibe Coding](/0038_VibeCoding)
 - [ai时代需要什么样的wiki工具](/0037_ai时代需要什么样的wiki工具)
 - [待分类](/0020_x)
   - [人](/0025_x_人)
@@ -37,4 +38,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1925560511</sub></kbd>
+<kbd><sub>@1556470512</sub></kbd>

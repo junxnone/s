@@ -1,10 +1,11 @@
 # Wiki History
 
+- 2026-05-12&nbsp;&nbsp; [Vibe Coding](/0038_VibeCoding)&nbsp;&nbsp; :bookmark:VibeCoding
 - 2026-05-09&nbsp;&nbsp; [ai时代需要什么样的wiki工具](/0037_ai时代需要什么样的wiki工具)&nbsp;&nbsp; :bookmark:ai时代需要什么样的wiki工具
 - 2026-05-09&nbsp;&nbsp; [万物层级关系](/0036_万物层级关系)&nbsp;&nbsp; :bookmark:万物层级关系
 - 2026-02-26&nbsp;&nbsp; [每日一思](/0034_未来_每日一思)&nbsp;&nbsp; :bookmark:未来 :bookmark:每日一思
-- 2026-02-26&nbsp;&nbsp; [好好说话](/0035_沟通_好好说话)&nbsp;&nbsp; :bookmark:沟通 :bookmark:好好说话
 - 2026-02-26&nbsp;&nbsp; [入世](/0033_未来_入世)&nbsp;&nbsp; :bookmark:未来 :bookmark:入世
+- 2026-02-26&nbsp;&nbsp; [好好说话](/0035_沟通_好好说话)&nbsp;&nbsp; :bookmark:沟通 :bookmark:好好说话
 - 2026-02-23&nbsp;&nbsp; [不进则退未雨绸缪](/0032_未来_不进则退未雨绸缪)&nbsp;&nbsp; :bookmark:未来 :bookmark:不进则退未雨绸缪
 - 2026-02-08&nbsp;&nbsp; [君之蜜糖吾之砒霜](/0031_沟通_君之蜜糖吾之砒霜)&nbsp;&nbsp; :bookmark:沟通 :bookmark:君之蜜糖吾之砒霜
 - 2025-09-10&nbsp;&nbsp; [故土](/0030_故土)&nbsp;&nbsp; :bookmark:故土
@@ -28,10 +29,10 @@
 - 2023-03-17&nbsp;&nbsp; [计划](/0008_计划)&nbsp;&nbsp; :bookmark:计划
 - 2023-03-17&nbsp;&nbsp; [学习方法](/0013_学习_方法)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法
 - 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
-- 2023-03-17&nbsp;&nbsp; [学习思维](/0011_学习_思维)&nbsp;&nbsp; :bookmark:学习 :bookmark:思维
+- 2023-03-17&nbsp;&nbsp; [学习效率](/0012_学习_效率)&nbsp;&nbsp; :bookmark:学习 :bookmark:效率
 - 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
 - 2023-03-17&nbsp;&nbsp; [沟通](/0005_沟通)&nbsp;&nbsp; :bookmark:沟通
 - 2023-03-17&nbsp;&nbsp; [学习工具](/0010_学习_工具)&nbsp;&nbsp; :bookmark:学习 :bookmark:工具
-- 2023-03-17&nbsp;&nbsp; [学习效率](/0012_学习_效率)&nbsp;&nbsp; :bookmark:学习 :bookmark:效率
+- 2023-03-17&nbsp;&nbsp; [学习思维](/0011_学习_思维)&nbsp;&nbsp; :bookmark:学习 :bookmark:思维
 - 2023-03-17&nbsp;&nbsp; [极限](/0003_x_极限)&nbsp;&nbsp; :bookmark:x :bookmark:极限
 - 2023-03-17&nbsp;&nbsp; [沟通时的思考](/0007_沟通_思考)&nbsp;&nbsp; :bookmark:沟通 :bookmark:思考
