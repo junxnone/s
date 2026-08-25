@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2026-08-25&nbsp;&nbsp; [使用权](/0040_使用权)&nbsp;&nbsp; :bookmark:使用权
 - 2026-05-13&nbsp;&nbsp; [杠杆](/0039_人生_杠杆)&nbsp;&nbsp; :bookmark:人生 :bookmark:杠杆
 - 2026-05-12&nbsp;&nbsp; [Vibe Coding](/0038_VibeCoding)&nbsp;&nbsp; :bookmark:VibeCoding
 - 2026-05-09&nbsp;&nbsp; [万物层级关系](/0036_万物层级关系)&nbsp;&nbsp; :bookmark:万物层级关系
@@ -26,12 +27,12 @@
 - 2023-04-26&nbsp;&nbsp; [格物](/0016_学习_格物)&nbsp;&nbsp; :bookmark:学习 :bookmark:格物
 - 2023-04-02&nbsp;&nbsp; [教](/0015_教)&nbsp;&nbsp; :bookmark:教
 - 2023-03-29&nbsp;&nbsp; [表达](/0014_表达)&nbsp;&nbsp; :bookmark:表达
-- 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
-- 2023-03-17&nbsp;&nbsp; [沟通时的思考](/0007_沟通_思考)&nbsp;&nbsp; :bookmark:沟通 :bookmark:思考
-- 2023-03-17&nbsp;&nbsp; [计划](/0008_计划)&nbsp;&nbsp; :bookmark:计划
-- 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
-- 2023-03-17&nbsp;&nbsp; [学习工具](/0010_学习_工具)&nbsp;&nbsp; :bookmark:学习 :bookmark:工具
 - 2023-03-17&nbsp;&nbsp; [学习方法](/0013_学习_方法)&nbsp;&nbsp; :bookmark:学习 :bookmark:方法
+- 2023-03-17&nbsp;&nbsp; [计划](/0008_计划)&nbsp;&nbsp; :bookmark:计划
+- 2023-03-17&nbsp;&nbsp; [沟通时的思考](/0007_沟通_思考)&nbsp;&nbsp; :bookmark:沟通 :bookmark:思考
+- 2023-03-17&nbsp;&nbsp; [沟通时的异议](/0006_沟通_异议)&nbsp;&nbsp; :bookmark:沟通 :bookmark:异议
+- 2023-03-17&nbsp;&nbsp; [学习工具](/0010_学习_工具)&nbsp;&nbsp; :bookmark:学习 :bookmark:工具
+- 2023-03-17&nbsp;&nbsp; [学习](/0009_学习)&nbsp;&nbsp; :bookmark:学习
 - 2023-03-17&nbsp;&nbsp; [学习效率](/0012_学习_效率)&nbsp;&nbsp; :bookmark:学习 :bookmark:效率
 - 2023-03-17&nbsp;&nbsp; [悟道](/0004_x_悟道)&nbsp;&nbsp; :bookmark:x :bookmark:悟道
 - 2023-03-17&nbsp;&nbsp; [学习思维](/0011_学习_思维)&nbsp;&nbsp; :bookmark:学习 :bookmark:思维
