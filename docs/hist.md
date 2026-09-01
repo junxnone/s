@@ -1,11 +1,12 @@
 # Wiki History
 
+- 2026-09-01&nbsp;&nbsp; [写作思考](/0042_写作思考)&nbsp;&nbsp; :bookmark:写作思考
 - 2026-08-27&nbsp;&nbsp; [规则](/0041_规则)&nbsp;&nbsp; :bookmark:规则
 - 2026-08-25&nbsp;&nbsp; [使用权](/0040_使用权)&nbsp;&nbsp; :bookmark:使用权
 - 2026-05-13&nbsp;&nbsp; [杠杆](/0039_人生_杠杆)&nbsp;&nbsp; :bookmark:人生 :bookmark:杠杆
 - 2026-05-12&nbsp;&nbsp; [Vibe Coding](/0038_VibeCoding)&nbsp;&nbsp; :bookmark:VibeCoding
-- 2026-05-09&nbsp;&nbsp; [万物层级关系](/0036_万物层级关系)&nbsp;&nbsp; :bookmark:万物层级关系
 - 2026-05-09&nbsp;&nbsp; [ai时代需要什么样的wiki工具](/0037_ai时代需要什么样的wiki工具)&nbsp;&nbsp; :bookmark:ai时代需要什么样的wiki工具
+- 2026-05-09&nbsp;&nbsp; [万物层级关系](/0036_万物层级关系)&nbsp;&nbsp; :bookmark:万物层级关系
 - 2026-02-26&nbsp;&nbsp; [好好说话](/0035_沟通_好好说话)&nbsp;&nbsp; :bookmark:沟通 :bookmark:好好说话
 - 2026-02-26&nbsp;&nbsp; [每日一思](/0034_未来_每日一思)&nbsp;&nbsp; :bookmark:未来 :bookmark:每日一思
 - 2026-02-26&nbsp;&nbsp; [入世](/0033_未来_入世)&nbsp;&nbsp; :bookmark:未来 :bookmark:入世
